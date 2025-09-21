@@ -1,1 +1,2 @@
 # Regresion_lineal.
+Varonjhojan_GuevaraCamila_BecerraDavid
